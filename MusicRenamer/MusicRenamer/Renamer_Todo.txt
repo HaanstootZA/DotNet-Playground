@@ -1,0 +1,30 @@
+Upgrade Notes for Renamer:
+Wishlist:
+Autotag - Based on Fingerprint, Name
+
+ISSUES:
+Changing the folder doesnt work anymore
+
+TODO:
+NamingBuilder:
+Build a naming convention builder
+
+Dale's Problem:
+i've got a whole bunch of songs - artists is various artists, then the title is: track - artist - title.
+i want to change it so the track goes into track, artist goes into artist and only the title is a title
+
+Memory problem:
+	Itteration instead of Recursion(Node.Add) DONT WANNA
+
+
+
+
+Depreciated Tag Editing not feasible
+Batch Tag Select - Select multiple tags and open the tag screen, update all tags as well
+
+Duplicate Removal
+Duplicate Removal can ONLY work properly if songs are properly named, and tagged
+auto-tag is imperitive. Use COTS tool or write own......
+
+Forms
+LeftPanel = RightPanel (Scroll Left = Scroll Right, Select Left = Select Right)
